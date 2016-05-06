@@ -3,5 +3,5 @@
 
 # 各文件的用途
 ##sender.py
-[sender.py](/sender.py)示范方法`sender()`的使用。
+[sender.py](/sender.py)示范方法`sender()`的使用。<br>
 ![](/runpic/sender.png)

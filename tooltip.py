@@ -13,6 +13,7 @@ class Tooltip(QtGui.QWidget):
         
         self.setToolTip('This is a <b>QWidget</b> widget')
         # QtGui.QToolTip.setFont(QtGui.QFont('OldEnglish', 10))
+        # 当鼠标移到窗口时会弹出提示
     
 
 app = QtGui.QApplication(sys.argv)
