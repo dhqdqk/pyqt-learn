@@ -11,7 +11,7 @@ class MainWindow(QtGui.QMainWindow):
         
         self.resize(640, 480)
         self.setWindowTitle('mennubar')
-        self.center()
+        self.center() # 居中
         
         # 添加退出
         self.exit = QtGui.QAction(QtGui.QIcon('icons/web.png'), 'Exit', self)
@@ -26,6 +26,7 @@ class MainWindow(QtGui.QMainWindow):
         self.file = self.menubar.addMenu('&File')
         self.file.addAction(self.exit)
         
+        # 添加工具栏
         self.toolBar = self.addToolBar('Exit')
         self.toolBar.addAction(self.exit)
         
