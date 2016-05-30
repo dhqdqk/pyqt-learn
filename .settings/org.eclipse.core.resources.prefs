@@ -1,9 +1,17 @@
 eclipse.preferences.version=1
 encoding/center.py=utf-8
+encoding/colordialog.py=utf-8
+encoding/emit.py=utf-8
+encoding/escape.py=utf-8
+encoding/fontdialog.py=utf-8
+encoding/gridlayout.py=utf-8
 encoding/icon.py=utf-8
+encoding/inputdialog.py=utf-8
 encoding/menubar.py=utf-8
 encoding/messagebox.py=utf-8
 encoding/quibutton.py=utf-8
+encoding/sender.py=utf-8
+encoding/sigslot.py=utf-8
 encoding/simple.py=utf-8
 encoding/statusbar.py=utf-8
 encoding/tooltip.py=utf-8
